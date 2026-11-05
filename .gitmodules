@@ -4,6 +4,7 @@
 [submodule "Lidgren.Network"]
 	path = Lidgren.Network/Lidgren.Network
 	url = https://github.com/space-wizards/lidgren-network-gen3.git
+	branch = backport/ghsa-D
 [submodule "XamlX"]
 	path = XamlX
 	url = https://github.com/space-wizards/XamlX
